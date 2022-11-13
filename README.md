@@ -1,4 +1,4 @@
-# Project Name
+# Boom Bike Sharing Case Study
 Boom Bike Sharing Case Study Assignment on Multiple Linear Regression
 
 
