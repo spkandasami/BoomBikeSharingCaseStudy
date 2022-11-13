@@ -25,7 +25,6 @@ Further, the model will be a good way for management to understand the demand dy
   quite accurately on the test set and thus we can conclude that it is a good model.
 - Mean Squared Error of both train and test data set is almost zero. So, our model can predict the cnt variable precisely.
 - Independent variables like Temperature/Feel like Temperature, Year, Holiday, Humidity, Windspeed are playing crucial role in the Bike-sharing business.
-- Conclusion 4 from the analysis
 
 
 ## Technologies Used
