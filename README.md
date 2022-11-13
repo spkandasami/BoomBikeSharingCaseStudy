@@ -27,12 +27,12 @@ Further, the model will be a good way for management to understand the demand dy
 
 
 ## Technologies Used
-pandas
-numpy
-seaborn
-matplotlib
-statsmodels
-sci-kit learn
+* pandas
+* numpy
+* seaborn
+* matplotlib
+* statsmodels
+* sci-kit learn
 
 ## Contact
 Created by [@spkandasami] - feel free to contact me!
