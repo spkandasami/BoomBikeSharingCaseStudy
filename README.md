@@ -6,7 +6,6 @@ Boom Bike Sharing Case Study Assignment on Multiple Linear Regression
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
 
 ## General Information
